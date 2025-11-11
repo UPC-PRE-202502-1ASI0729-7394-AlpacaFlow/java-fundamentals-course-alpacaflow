@@ -90,10 +90,10 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ### **Lección 9: Desarrollo práctico de un programa (10 minutos)**
 
-- **Descripción**: Aplica todo lo aprendido para construir una aplicación basada en POO (ej. registro de estudiante o juego de adivinanzas).
-- **Conclusiones clave**: Proyecto: Registro de estudiante o juego de adivinanzas; Integración de clases.
+- **Descripción**: Aplica todo lo aprendido para construir una aplicación basada en POO.
+- **Conclusiones clave**: Proyecto: Registro de estudiante.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link9)
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java)
+- **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/I4Hy1S0HB)
 
 ---
 
@@ -108,7 +108,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ## Recursos adicionales
 
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **Código fuente completo**: [Repositorio de GitHub](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/java-fundamentals-course-alpacaflow)
 
 ### **Todas las actividades prácticas**
 
@@ -122,7 +122,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | 6   | Clases y Objetos         | [OnlineGDB](https://onlinegdb.com/your-lesson6)                 |
 | 7   | Encapsulación            | [Replit](https://replit.com/@your-lesson7)                      |
 | 8   | Arrays y Strings         | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson8) |
-| 9   | Programa POO (Proyecto)  | [Replit](https://replit.com/@your-lesson9)                      |
+| 9   | Programa POO (Proyecto)  | [Replit](https://onlinegdb.com/I4Hy1S0HB)                      |
 | 10  | Buenas Prácticas         | [Replit](https://replit.com/@your-lesson9)                      |
 
 - **Cuestionario**: [Prueba de conocimientos](https://forms.gle/your-quiz)
