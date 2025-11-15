@@ -21,7 +21,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Conclusiones clave**: ¿Qué es Java? ¿Por qué usarlo? Los programas son instrucciones para computadoras.
 - **Enlace**: [Ver la lección](https://youtu.be/ZZcxe17UHaA)
-- **Práctica**: [Abrir GDB - Hola Java](https://replit.com/@your-starter-java)
+- **Práctica**: [Abrir GDB - Hola Java](https://onlinegdb.com/703d8ZQ5G2)
 
 ---
 
