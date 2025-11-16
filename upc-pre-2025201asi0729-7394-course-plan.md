@@ -34,21 +34,21 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 3: Estructuras de control (8 minutos)**
+### **Lección 3: Estructuras de control (5 minutos)**
 
 - **Descripción**: Toma decisiones con sentencias `if-else` y repite tareas con bucles `for` y `while`.
 - **Conclusiones clave**: `if (condicion) {} else {}`; `for (int i=0; i<5; i++) {}`
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Práctica**: [Clic para programar en JDoodle](https://jdoodle.com/execute-java-online/your-id)
+- **Enlace**: [Ver la lección](https://youtu.be/97CSL3KXtSk)
+- **Práctica**: [Clic para programar en JDoodle](https://onlinegdb.com/7nefuE1KP)
 
 ---
 
-### **Lección 4: Métodos y modularización (6 minutos)**
+### **Lección 4: Métodos y modularización (5 minutos)**
 
 - **Descripción**: Aprende a crear código reutilizable con métodos (funciones) y a pasar parámetros.
 - **Conclusiones clave**: `public static void miMetodo() {}`; `int suma(int a, int b) {}`; Parámetros.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id)
+- **Enlace**: [Ver la lección](https://youtu.be/0dNBUEqprb8)
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/i515VWWXa)
 
 ---
 
