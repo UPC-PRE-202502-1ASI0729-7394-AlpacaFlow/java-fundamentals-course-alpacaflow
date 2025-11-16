@@ -57,7 +57,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 - **Descripción**: Aprende a recibir datos del usuario (Scanner) y mostrar información en la consola.
 - **Conclusiones clave**: `import java.util.Scanner;`; `Scanner sc = new Scanner(System.in);`; `System.out.println();`
 - **Enlace**: [Ver la lección](https://youtu.be/FNhOc9kQ_mk)
-
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/WS-gqvWWhi)
 
 ---
 
