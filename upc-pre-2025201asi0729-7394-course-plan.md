@@ -10,18 +10,18 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 - **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 - **Prerrequisitos**: Ninguno
 - **Herramientas necesarias**: **Solo tu navegador web** (Chrome, Firefox, Safari, Edge)
-- **📂 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-course-teamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **📂 Repositorio de Código Fuente**: [https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/java-fundamentals-course-alpacaflow](https://github.com/UPC-PRE-202502-1ASI0729-7394-AlpacaFlow/java-fundamentals-course-alpacaflow)
 
 ---
 
 ## Secuencia de la Lección
 
-### **Lección 1: Introducción a Java y la Programación (7 minutos)**
+### **Lección 1: Introducción a Java y la Programación (5 minutos)**
 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 - **Conclusiones clave**: ¿Qué es Java? ¿Por qué usarlo? Los programas son instrucciones para computadoras.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-- **Práctica**: [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+- **Enlace**: [Ver la lección](https://youtu.be/ZZcxe17UHaA)
+- **Práctica**: [Abrir GDB - Hola Java](https://onlinegdb.com/703d8ZQ5G2)
 
 ---
 
@@ -114,7 +114,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Nº  | Actividad                | Empezar a programar                                             |
 | --- | ------------------------ | --------------------------------------------------------------- |
-| 1   | Hola mundo               | [Replit](https://replit.com/@your-lesson1)                      |
+| 1   | Hola Java               | [GDB](https://onlinegdb.com/703d8ZQ5G2)                      |
 | 2   | Variables y Operadores   | [Replit](https://replit.com/@your-lesson2)                      |
 | 3   | Estructuras de Control   | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4   | Métodos                  | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
