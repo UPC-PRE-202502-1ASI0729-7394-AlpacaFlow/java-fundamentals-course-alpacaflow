@@ -25,12 +25,13 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 2: Fundamentos de la sintaxis (7 minutos)**
+### **Lección 2: Fundamentos de la sintaxis (4 minutos)**
 
 - **Descripción**: Aprende la sintaxis básica de Java: variables, tipos de datos, operadores y expresiones.
 - **Conclusiones clave**: Sintaxis básica; Usa `int`, `String`; Operadores (`+`, `-`, `*`, `/`); Expresiones.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java)
+- **Enlace**: [Ver la lección](https://youtu.be/hQPhWQ8NH_M)
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/8UbDCNeCM)
+
 
 ---
 
@@ -61,7 +62,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 6: Introducción a la POO (8 minutos)**
+### **Lección 6: Introducción a la POO (5 minutos)**
 
 - **Descripción**: Entiende los conceptos básicos de la POO: clases, objetos, constructores y métodos simples.
 - **Conclusiones clave**: `class MiClase {}`; `MiClase obj = new MiClase();`; Constructores.
