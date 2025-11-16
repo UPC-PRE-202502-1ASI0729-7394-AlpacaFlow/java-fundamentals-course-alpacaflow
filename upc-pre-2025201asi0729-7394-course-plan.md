@@ -101,8 +101,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 - **Descripción**: Repaso final, mejores prácticas al programar en Java y cómo evitar errores comunes.
 - **Conclusiones clave**: Depuración, consistencia, nomenclatura, documentación y errores comunes.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link10)
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+- **Enlace**: [Ver la lección](https://youtu.be/rlV5gNOOQVs)
 
 ---
 
