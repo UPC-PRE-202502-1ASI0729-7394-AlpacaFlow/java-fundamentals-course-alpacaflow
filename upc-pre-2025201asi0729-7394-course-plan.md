@@ -43,12 +43,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 4: Métodos y modularización (6 minutos)**
+### **Lección 4: Métodos y modularización (5 minutos)**
 
 - **Descripción**: Aprende a crear código reutilizable con métodos (funciones) y a pasar parámetros.
 - **Conclusiones clave**: `public static void miMetodo() {}`; `int suma(int a, int b) {}`; Parámetros.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id)
+- **Enlace**: [Ver la lección](https://youtu.be/0dNBUEqprb8)
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/i515VWWXa)
 
 ---
 
