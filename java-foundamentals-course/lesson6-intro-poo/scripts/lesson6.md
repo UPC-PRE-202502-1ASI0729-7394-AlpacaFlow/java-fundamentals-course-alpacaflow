@@ -1,5 +1,5 @@
 # Lección 6: Introducción a la Programación Orientada a Objetos (POO)
-**Duración:** 7–8 minutos
+**Duración:** 5 minutos
 
 ## Objetivo
 Comprender los fundamentos de la Programación Orientada a Objetos: **clases, objetos, atributos y métodos**, y crear tu primera clase en Java.
@@ -120,3 +120,4 @@ class Main {
 ```
 
 ---
+
