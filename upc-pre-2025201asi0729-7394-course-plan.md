@@ -40,7 +40,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 - **Descripción**: Toma decisiones con sentencias `if-else` y repite tareas con bucles `for` y `while`.
 - **Conclusiones clave**: `if (condicion) {} else {}`; `for (int i=0; i<5; i++) {}`
 - **Enlace**: [Ver la lección](https://youtu.be/97CSL3KXtSk)
-- **Práctica**: [Clic para programar en JDoodle](https://onlinegdb.com/7nefuE1KP)
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/7nefuE1KP)
 
 ---
 
@@ -114,16 +114,15 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Nº  | Actividad                | Empezar a programar                                             |
 | --- | ------------------------ | --------------------------------------------------------------- |
-| 1   | Hola Java               | [GDB](https://onlinegdb.com/703d8ZQ5G2)                      |
-| 2   | Variables y Operadores   | [Replit](https://replit.com/@your-lesson2)                      |
-| 3   | Estructuras de Control   | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4   | Métodos                  | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
-| 5   | Entrada/Salida (Scanner) | [Replit](https://replit.com/@your-lesson5)                      |
-| 6   | Clases y Objetos         | [OnlineGDB](https://onlinegdb.com/your-lesson6)                 |
+| 1   | Hola Java               | [OnlineGDB](https://onlinegdb.com/703d8ZQ5G2)                      |
+| 2   | Variables y Operadores   | [OnlineGDB](https://onlinegdb.com/8UbDCNeCM)                      |
+| 3   | Estructuras de Control   | [OnlineGDB](https://onlinegdb.com/7nefuE1KP) |
+| 4   | Métodos                  | [OnlineGDB](https://onlinegdb.com/i515VWWXa)                 |
+| 5   | Entrada/Salida (Scanner) | [OnlineGDB](https://onlinegdb.com/WS-gqvWWhi)                      |
+| 6   | Clases y Objetos         | [OnlineGDB](https://onlinegdb.com/PKaNo3PKv)                 |
 | 7   | Encapsulación            | [OnlineGDB](https://onlinegdb.com/KLQPLmmX0)                      |
 | 8   | Arrays y Strings         | [OnlineGDB](https://onlinegdb.com/7HeuLqz0m) |
-| 9   | Programa POO (Proyecto)  | [Replit](https://replit.com/@your-lesson9)                      |
-| 10  | Buenas Prácticas         | [Replit](https://replit.com/@your-lesson9)                      |
+| 9   | Programa POO (Proyecto)  | [OnlineGDB](https://onlinegdb.com/I4Hy1S0HB)                      |
 
 - **Cuestionario**: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSdtf0WWrFqEfldFBb9913WQQcs9QS-Zg7CELqmtQiL6ozBGGQ/viewform?usp=publish-editor)
 - **Compartir**: #AlpacaCoders
