@@ -70,7 +70,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 7: Principios básicos de POO (7 minutos)**
+### **Lección 7: Principios básicos de POO (10 minutos)**
 
 - **Descripción**: Profundiza en la POO aprendiendo sobre encapsulación (getters/setters) e instanciación simple.
 - **Conclusiones clave**: `private String nombre;`; Getters y setters; Instanciación.
@@ -79,7 +79,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 8: Estructuras de datos y objetos (6 minutos)**
+### **Lección 8: Estructuras de datos y objetos (7 minutos)**
 
 - **Descripción**: Manipula estructuras de datos comunes como arrays y cadenas (Strings) integradas con objetos.
 - **Conclusiones clave**: `String[] miArray;`; `miArray[0] = "Hola";`; Manipulación de Strings; Arrays de objetos.
@@ -120,8 +120,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | 4   | Métodos                  | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
 | 5   | Entrada/Salida (Scanner) | [Replit](https://replit.com/@your-lesson5)                      |
 | 6   | Clases y Objetos         | [OnlineGDB](https://onlinegdb.com/your-lesson6)                 |
-| 7   | Encapsulación            | [Replit](https://replit.com/@your-lesson7)                      |
-| 8   | Arrays y Strings         | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson8) |
+| 7   | Encapsulación            | [OnlineGDB](https://onlinegdb.com/KLQPLmmX0)                      |
+| 8   | Arrays y Strings         | [OnlineGDB](https://onlinegdb.com/7HeuLqz0m) |
 | 9   | Programa POO (Proyecto)  | [Replit](https://replit.com/@your-lesson9)                      |
 | 10  | Buenas Prácticas         | [Replit](https://replit.com/@your-lesson9)                      |
 
