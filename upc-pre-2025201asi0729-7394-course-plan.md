@@ -29,8 +29,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 - **Descripción**: Aprende la sintaxis básica de Java: variables, tipos de datos, operadores y expresiones.
 - **Conclusiones clave**: Sintaxis básica; Usa `int`, `String`; Operadores (`+`, `-`, `*`, `/`); Expresiones.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java)
+- **Enlace**: [Ver la lección](https://youtu.be/hQPhWQ8NH_M)
+
 
 ---
 
