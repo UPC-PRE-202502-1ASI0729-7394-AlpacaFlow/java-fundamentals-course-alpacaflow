@@ -92,7 +92,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 - **Descripción**: Aplica todo lo aprendido para construir una aplicación basada en POO.
 - **Conclusiones clave**: Proyecto: Registro de estudiante.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link9)
+- **Enlace**: [Ver la lección](https://youtu.be/fj-mVC1fW9A)
 - **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/I4Hy1S0HB)
 
 ---
@@ -122,9 +122,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 | 7   | Encapsulación            | [Replit](https://replit.com/@your-lesson7)                      |
 | 8   | Arrays y Strings         | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson8) |
 | 9   | Programa POO (Proyecto)  | [Replit](https://onlinegdb.com/I4Hy1S0HB)                      |
-| 10  | Buenas Prácticas         | [Replit](https://replit.com/@your-lesson9)                      |
 
-- **Cuestionario**: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- **Cuestionario**: [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSdtf0WWrFqEfldFBb9913WQQcs9QS-Zg7CELqmtQiL6ozBGGQ/viewform?usp=publish-editor)
 - **Compartir**: #AlpacaCoders
 
 **¡Gracias por completar el curso!**
@@ -149,4 +148,4 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 - Rivera Ayala, Gabriel Alejandro
 - Barrientos Quispe, Marcelo
 
-**Fecha de entrega:** [Fecha]
+**Fecha de entrega:** 15/11/2025
