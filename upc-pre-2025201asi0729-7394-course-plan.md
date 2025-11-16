@@ -53,12 +53,12 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 ---
 
-### **Lección 5: Entrada y salida de datos (5 minutos)**
+### **Lección 5: Entrada y salida de datos (4 minutos)**
 
 - **Descripción**: Aprende a recibir datos del usuario (Scanner) y mostrar información en la consola.
 - **Conclusiones clave**: `import java.util.Scanner;`; `Scanner sc = new Scanner(System.in);`; `System.out.println();`
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Práctica**: [Haz clic para practicar](https://replit.com/@your-scanner-java)
+- **Enlace**: [Ver la lección](https://youtu.be/FNhOc9kQ_mk)
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/WS-gqvWWhi)
 
 ---
 
