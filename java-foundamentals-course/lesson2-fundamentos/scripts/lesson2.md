@@ -1,5 +1,5 @@
 # Lección 2: Fundamentos de la Sintaxis en Java
-**Duración:** 6–7 minutos
+**Duración:** 4 minutos
 
 ## Objetivo
 Comprender los elementos básicos de la sintaxis de Java: **variables, tipos de datos, operadores y expresiones**, para comenzar a escribir programas simples y correctos.
@@ -133,3 +133,4 @@ public class Leccion2Completed {
 |--------|-------------|--------|
 | Tipos de datos en Java – Oracle | Referencia oficial sobre tipos primitivos | https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html |
 | Operadores en Java – W3Schools | Explicación clara de operadores matemáticos y lógicos | https://www.w3schools.com/java/java_operators.asp |
+
