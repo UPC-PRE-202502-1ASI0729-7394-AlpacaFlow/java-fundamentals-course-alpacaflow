@@ -1,5 +1,5 @@
 # Lección 5: Entrada y salida de datos en Java
-**Duración:** 6–7 minutos
+**Duración:** 4 minutos
 
 ## Objetivo
 Aprender a usar la salida por consola con `System.out.println` y la entrada de datos con la clase `Scanner`.
@@ -80,3 +80,4 @@ public class Leccion5Completed {
     }
 }
 ```
+
