@@ -17,9 +17,9 @@ public class Main {
 
         Estudiante[] estudiantes = new Estudiante[3];
 
-        estudiantes[0] = new Estudiante("Ana", 17.5);
+        estudiantes[0] = new Estudiante("Jose", 17.0);
         estudiantes[1] = new Estudiante("Luis", 15.0);
-        estudiantes[2] = new Estudiante("María", 18.0);
+        estudiantes[2] = new Estudiante("Rosa", 18.0);
 
         for (int i = 0; i < estudiantes.length; i++) {
             estudiantes[i].mostrarInfo();

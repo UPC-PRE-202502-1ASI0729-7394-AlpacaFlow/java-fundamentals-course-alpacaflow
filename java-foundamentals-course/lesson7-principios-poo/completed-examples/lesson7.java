@@ -43,7 +43,7 @@ class Persona {
 public class Main {
     public static void main(String[] args) {
         // Instanciación: crear un objeto de la clase Persona
-        Persona persona1 = new Persona("Ana", 16);
+        Persona persona1 = new Persona("Juan", 16);
 
         // Mostramos su información
         persona1.mostrarInfo();

@@ -74,8 +74,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 - **Descripción**: Profundiza en la POO aprendiendo sobre encapsulación (getters/setters) e instanciación simple.
 - **Conclusiones clave**: `private String nombre;`; Getters y setters; Instanciación.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link7)
-- **Práctica**: [Clic para programar](https://replit.com/@your-poo-java)
+- **Enlace**: [Ver la lección](https://youtu.be/K3Ty_ixpinU)
+- **Práctica**: [Clic para programar](https://onlinegdb.com/pjrwdNu1f)
 
 ---
 
@@ -83,8 +83,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 - **Descripción**: Manipula estructuras de datos comunes como arrays y cadenas (Strings) integradas con objetos.
 - **Conclusiones clave**: `String[] miArray;`; `miArray[0] = "Hola";`; Manipulación de Strings; Arrays de objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link8)
-- **Práctica**: [Haz clic para practicar](https://jdoodle.com/execute-java-online/your-lesson8)
+- **Enlace**: [Ver la lección](https://youtu.be/NLMrjYFsALw)
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/Xf_GEtqAQ)
 
 ---
 
