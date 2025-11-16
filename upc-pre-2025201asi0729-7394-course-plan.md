@@ -66,6 +66,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 - **Descripción**: Entiende los conceptos básicos de la POO: clases, objetos, constructores y métodos simples.
 - **Conclusiones clave**: `class MiClase {}`; `MiClase obj = new MiClase();`; Constructores.
 - **Enlace**: [Ver la lección](https://youtu.be/eTPgx0bZGto)
+- - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/PKaNo3PKv)
 
 ---
 
