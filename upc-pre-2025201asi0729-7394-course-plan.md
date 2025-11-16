@@ -144,7 +144,6 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 **Integrantes del equipo:**
 
 - Nikaido Vargas, Javier Masaru
-- Cuba Pareja, Joaquín Antonio
 - Fernández Camayo, Carlos Fredy
 - Rivera Ayala, Gabriel Alejandro
 - Barrientos Quispe, Marcelo
